@@ -1,6 +1,7 @@
-##Automatic identification of traditional Colombian music genres based on audio content analysis and machine learning techniques
+## Automatic identification of traditional Colombian music genres based on audio content analysis and machine learning techniques
 
-###Colombia has a diversity of genres in traditional music, which
+### 
+Colombia has a diversity of genres in traditional music, which
 allows to express the richness of the Colombian culture according to
 the region. This musical diversity is the result of a mixture of African,
 native Indigenous, and European influences. Organizing large collections
