@@ -17,7 +17,9 @@ Cumbia, Joropo, Pasillo, and Vallenato. Results show that it is possible
 to automatically identify the music genre in spite of the complexity of
 Colombian rhythms reaching an average accuracy of 69%.
 
+### Link to conference paper:
 https://arxiv.org/abs/1911.03372
 
 
+### Link to python notebook:
 https://colab.research.google.com/drive/18R33dt5N5aLd1R0Jge5uzrXozNXEIbA3?usp=sharing
