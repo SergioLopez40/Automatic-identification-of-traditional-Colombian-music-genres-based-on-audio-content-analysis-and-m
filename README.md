@@ -1,9 +1,9 @@
 ## Automatic identification of traditional Colombian music genres based on audio content analysis and machine learning techniques
 ### Universidad Nacional de Colombia, Bogota, Colombia
 
-* Sergio Steven Lopez Martinez
-* Diego Cruz Moreno
-* Jorge Camargo
+* Sergio Steven Lopez Martinez - sslopezm@unal.edu.co 
+* Diego Cruz Moreno - diacruzmo@unal.edu.co
+* Jorge Camargo - jecamargo@unal.edu.co
 
 ### 
 Colombia has a diversity of genres in traditional music, which
