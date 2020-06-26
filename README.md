@@ -1,5 +1,9 @@
 ## Automatic identification of traditional Colombian music genres based on audio content analysis and machine learning techniques
 
+* Sergio Steven Lopez Martinez
+* Diego Cruz Moreno
+* Jorge Camargo
+
 ### 
 Colombia has a diversity of genres in traditional music, which
 allows to express the richness of the Colombian culture according to
