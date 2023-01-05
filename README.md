@@ -24,9 +24,11 @@ Colombian rhythms reaching an average accuracy of 69%.
 
 ### Link to conference paper:
 https://arxiv.org/abs/1911.03372
-Also uploaded on this repository as "Automatic identification of traditional Colombian music genres based on audio content analysis and machine learning technique.pdf"
 
 ### Link to python notebook:
 https://colab.research.google.com/drive/18R33dt5N5aLd1R0Jge5uzrXozNXEIbA3?usp=sharing
-Also uploaded on this repository as "Automatic identification of traditional Colombian music genres based on audio content analysis and machine learning technique.ipynb"
+
+#### The paper and the step by step notebook are also uploaded in this repository as:
+"Automatic identification of traditional Colombian music genres based on audio content analysis and machine learning technique.pdf"
+"Automatic identification of traditional Colombian music genres based on audio content analysis and machine learning technique.ipynb"
 
